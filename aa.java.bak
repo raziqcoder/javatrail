@@ -1,0 +1,11 @@
+//using of these keyword
+import java.io.*;
+class aaS
+{
+	int a=10;
+	void display()
+	{
+		System.out.println(a);
+	}
+
+}
